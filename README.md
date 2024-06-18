@@ -1,5 +1,3 @@
-### README.md
-
 # Analyzing the Relationship Between Air Quality Index (AQI) and Asthma Outcomes Across Counties
 
 ## Project Overview
@@ -94,4 +92,3 @@ For any questions or issues, please contact the project lead, Hilda Ogamba, at [
 ---
 
 This README provides a comprehensive guide to running the project, from data preprocessing to creating visualizations and dashboards in Tableau. The insights gained from this analysis can inform public health policies aimed at improving air quality and reducing asthma-related health issues.
-# california-asthma-aqi-dashboard
